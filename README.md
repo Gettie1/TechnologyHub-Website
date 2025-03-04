@@ -7,9 +7,13 @@ Technology Hub is a multi-page website designed to showcase innovations, service
 Features
 
 ✅ Responsive Design – Optimized for desktops, tablets, and mobile devices using CSS media queries.
+
 ✅ Five Dedicated Pages – Includes Home, About Us, Services, Gallery, and Contact sections.
+
 ✅ Multimedia Integration – Features high-quality images, embedded videos, and audio to enhance engagement.
+
 ✅ User-Friendly Navigation – A structured and easy-to-use navigation menu for seamless browsing.
+
 ✅ SEO Best Practices – Includes metadata, alt attributes, and structured content for better search engine rankings.
 
 
@@ -17,9 +21,13 @@ Features
 Pages & Description
 
 📌 Home (index.html) – A welcoming page introducing Technology Hub’s mission and key offerings.
+
 📌 About Us (about.html) – Insights into our team, expertise, and vision for the tech industry.
+
 📌 Services (services.html) – A detailed breakdown of the services we provide, including web development, SEO, and technical support.
+
 📌 Gallery (gallery.html) – A collection of images showcasing our projects, events, and achievements.
+
 📌 Contact (contact.html) – A contact form with email, phone, and social media links for inquiries and support.
 
 
