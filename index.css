@@ -1,0 +1,64 @@
+body{
+
+}
+nav{
+    background-color: #b15f5f;
+    color: rgb(9, 8, 8);
+    padding: 10px;
+    text-align: center;
+}
+nav img{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    align-items: left;
+    border-radius: 50%;
+}
+nav li{
+    display: inline;
+    padding: 10px;
+}
+nav a:hover{
+    color: #09c031;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+main{
+    background-color:bisque;
+    padding: 10px;
+}
+footer{
+    background-color: #b15f5f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.hero h2{
+    text-align: left;
+}
+h2{
+    text-align: center;
+    margin: 0px;
+
+}
+.video{
+    text-align: center;
+    justify-content: space-between;
+
+}
+video{
+    width: 300px;
+    height: 600px;
+    margin: 30px;
+}
+h3{
+    margin-left: 50px;
+}
+audio{
+    width: 300px;
+    height: 50px;
+    margin: 30px;
+    align-items: center;
+}
