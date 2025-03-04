@@ -26,11 +26,9 @@ Pages & Description
 
 Technologies Used
 
-HTML5 – For structuring the website’s content.
+-HTML5 – For structuring the website’s content.
 
-CSS3 – For styling, layout design, and responsive features.
-
-JavaScript (Optional) – For interactive elements such as animations and form validation.
+-CSS3 – For styling, layout design, and responsive features.
 
 
 
@@ -42,7 +40,7 @@ How to Use
 2. Open in a Browser: Navigate to the project folder and open index.html in any modern web browser.
 
 
-3. Use Live Server (Optional): For better performance, use VS Code Live Server or a local development environment.
+3. Use Live Server (Optional): For better performance, use VS Code Live Server or a local development     environment.
 
 
 4. Navigate the Website: Explore the different pages using the navigation menu.
@@ -52,22 +50,20 @@ Screenshots
 
 Below are some sample screenshots of the website:
 
-Homepage
+![Homepage](./images/homeHub.png)
+
 
 Description: A clean and professional landing page with a welcome message.
 
 
-Services Page
+![Services Page](./images/ourservices.png)
 
 Description: A detailed section showcasing different tech-related services.
 
 
-Gallery Page
+![Gallery Page](./images/gallery.png)
 
 Description: A visually appealing gallery displaying our projects and achievements.
-
-
-(Note: Replace the placeholders with actual screenshots from your project.)
 
 Future Enhancements
 
@@ -78,6 +74,5 @@ Future Enhancements
 
 Contributors
 
-👨‍💻 Developed by [Your Name/Team Name]
-📩 Contact: [your-email@example.com]
-🌐 Website: [your-website-link.com]
+👨‍💻 Developed by [Technology-Hub]
+📩 Contact: [technologyhub@gmail.com]
